@@ -96,7 +96,7 @@ export const Navbar: React.FC = () => {
         <div id="desktop-nav-actions" className="hidden md:flex items-center gap-3">
           <a
             id="nav-social-github"
-            href={PERSONAL_INFO.links.github}
+            href={https://github.com/yashpandey2211-a11y}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Profile"
@@ -106,7 +106,7 @@ export const Navbar: React.FC = () => {
           </a>
           <a
             id="nav-social-linkedin"
-            href={PERSONAL_INFO.links.linkedin}
+            href={https://www.linkedin.com/in/yash-pandey-577106381/}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn Profile"
@@ -168,7 +168,7 @@ export const Navbar: React.FC = () => {
             <div className="flex items-center gap-2">
               <a
                 id="mobile-drawer-github"
-                href={PERSONAL_INFO.links.github}
+                href={https://github.com/yashpandey2211-a11y}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-[#F1F5F9] text-slate-800 hover:text-slate-900 border border-slate-200"
@@ -178,7 +178,7 @@ export const Navbar: React.FC = () => {
               </a>
               <a
                 id="mobile-drawer-linkedin"
-                href={PERSONAL_INFO.links.linkedin}
+                href={https://www.linkedin.com/in/yash-pandey-577106381/}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-[#F1F5F9] text-slate-800 hover:text-[#2563EB] border border-slate-200"
