@@ -86,7 +86,7 @@ export const Footer: React.FC = () => {
             <div className="flex items-center gap-2 pt-2">
               <a
                 id="footer-social-github"
-                href={PERSONAL_INFO.links.github}
+                href={https://github.com/yashpandey2211-a11y}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -96,7 +96,7 @@ export const Footer: React.FC = () => {
               </a>
               <a
                 id="footer-social-linkedin"
-                href={PERSONAL_INFO.links.linkedin}
+                href={https://www.linkedin.com/in/yash-pandey-577106381/}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
@@ -106,7 +106,7 @@ export const Footer: React.FC = () => {
               </a>
               <a
                 id="footer-social-leetcode"
-                href={PERSONAL_INFO.links.leetcode}
+                href={https://leetcode.com/u/YASH_2211/}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LeetCode"
