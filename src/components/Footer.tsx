@@ -53,7 +53,7 @@ export const Footer: React.FC = () => {
                 </a>
               </li>
               <li>
-                <a id="footer-link-certifications" href="#certifications" className="hover:text-[#2563EB] transition-colors">
+                <a id="footer-link-certifications" href="https://www.credly.com/badges/e6ed7c18-f09a-4f1a-933f-09912db79c4f/public_url" className="hover:text-[#2563EB] transition-colors">
                   Certifications
                 </a>
               </li>
