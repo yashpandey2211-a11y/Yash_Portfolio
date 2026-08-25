@@ -87,7 +87,7 @@ export const Certifications: React.FC = () => {
             <div className="shrink-0">
               <a
                 id="cert-verify-cta-azure"
-                href="https://www.credly.com/earner/earned/share/e6ed7c18-f09a-4f1a-933f-09912db79c4f"
+                href="https://www.credly.com/badges/e6ed7c18-f09a-4f1a-933f-09912db79c4f/public_url"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Verify Microsoft Azure Certification on Credly"
