@@ -35,7 +35,7 @@ export const Navbar: React.FC = () => {
     { name: 'About', href: '#about', id: 'nav-link-about' },
     { name: 'Skills', href: '#skills', id: 'nav-link-skills' },
     { name: 'Projects', href: '#projects', id: 'nav-link-projects' },
-    { name: 'Certifications', href: '#certifications', id: 'nav-link-certifications' },
+    { name: 'Certifications', href: 'https://www.credly.com/badges/e6ed7c18-f09a-4f1a-933f-09912db79c4f/public_url', id: 'nav-link-certifications' },
     { name: 'Contact', href: '#contact', id: 'nav-link-contact' },
   ];
 
